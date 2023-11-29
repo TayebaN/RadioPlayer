@@ -1,0 +1,44 @@
+Part 2
+
+1- Betydelsen av semantiska element inom webbutveckling med 
+hänsyn till tillgänglighetsriktlinjer:
+Semantiska HTML-element är av stor betydelse för tillgänglighet 
+då de ger meningsfull information om webbsidans struktur och innehåll. 
+Två exempel på semantiska element är <header> och <nav>. <header> används 
+för att definiera sidhuvudet och <nav> för navigationslänkar. 
+Dessa element underlättar för användare med funktionsnedsättningar
+genom att tillhandahålla strukturerad information som kan tolkas
+av skärmläsare och andra hjälpmedel.
+
+2- Betydelsen av färgkontrast i webbdesign med avseende på tillgänglighet:
+Färgkontrast är avgörande för att göra webbplatser lättlästa för 
+användare med synnedsättningar. Att följa färgkontrastriktlinjer gynnar 
+dessa användare genom att förbättra läsbarheten och tydligheten på 
+webbsidan. Enligt WCAG-standarderna rekommenderas ett kontrastförhållande 
+på minst 4.5:1 för normal text och 3:1 för stor text.
+
+3- Rollen för alternativ text (alt text) för bilder enligt tillgänglighetsriktlinjer:
+Inkludering av beskrivande alt text är avgörande för tillgänglighet då 
+det ger information om bildinnehållet till användare som inte kan se 
+bilden. Alt text används av skärmläsare och andra hjälpmedel för att 
+beskriva bilder och göra dem tillgängliga för personer med synnedsättningar. 
+Exempel: <img src="kattbild.jpg" alt="En söt katt som leker med en boll">.
+
+4- Syftet med landmärken vid skapandet av tillgängligt webbinnehåll:
+Landmärken, såsom <main>, <nav>, och <footer>, hjälper till att 
+strukturera sidan och ger användare av hjälpmedel tydligare navigationspunkter. 
+De underlättar för användare med funktionsnedsättningar genom att erbjuda 
+snabb och enkel åtkomst till olika delar av webbplatsen.
+
+5-Betydelsen av korrekt formulärmärkning:
+Korrekt formulärmärkning är viktig för att underlätta för användare med 
+funktionsnedsättningar att förstå och använda formulär på webbplatser. 
+Genom att använda <label>-elementet associeras texten direkt med 
+respektive formulärfält, vilket gör det lättare för skärmläsare att 
+identifiera och läsa upp formulärfälten. 
+Exempel: <label for="username">Användarnamn:</label> <input type="text" id="username" name="username">.
+
+
+
+
+
